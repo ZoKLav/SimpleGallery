@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="wallpaper_home">Home</string>
+    <string name="wallpaper_lock">Lock</string>
+    <string name="wallpaper_both">Both</string>
+    <string name="wallpaper_adjust">Drag to position; pinch to zoom. Animated images use a still frame.</string>
+    <string name="wallpaper_zoom_out">Zoom out</string>
+    <string name="wallpaper_zoom_in">Zoom in</string>
+    <string name="wallpaper_reset">Reset</string>
+    <string name="wallpaper_done">Wallpaper set</string>
+    <string name="wallpaper_unavailable">Wallpaper changes are unavailable on this device.</string>
+    <string name="wallpaper_failed">Unable to set wallpaper. Try again.</string>
+</resources>

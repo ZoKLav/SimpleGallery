@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open_media_file">Open file…</string>
+    <string name="open_original">Open original</string>
+    <string name="original_image">Original image</string>
+    <string name="loading_media">Loading…</string>
+    <string name="back_to_gallery">Back</string>
+    <string name="share_original">Share original</string>
+    <string name="image_format_unavailable">This image could not be opened. Its format may not be supported by this Android version.</string>
+    <string name="unrecognized_media">This file is not a recognized image or video.</string>
+    <string name="file_picker_unavailable">No file picker is available.</string>
+    <string name="no_share_app">No app is available to share this file.</string>
+</resources>
